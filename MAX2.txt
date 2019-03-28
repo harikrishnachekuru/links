@@ -1,0 +1,5 @@
+https://dzone.com/articles/securing-nodejs-managing-sessions-in-expressjs
+
+https://hackernoon.com/redux-logging-in-production-d489d614de78
+
+https://stackoverflow.com/questions/21238667/infinite-scrolling-with-react-js
