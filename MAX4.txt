@@ -1,0 +1,6 @@
+https://pusher.com/tutorials/live-progress-react
+
+https://reactjsexample.com/react-library-that-tracks-a-users-progress-through-a-page-as-they-scroll/
+
+https://github.com/NomanGul/react-page-progress
+
