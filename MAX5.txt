@@ -1,0 +1,9 @@
+https://blog.bitsrc.io/email-confirmation-with-react-257e5d9de725
+
+https://www.npmjs.com/package/email-verification
+
+https://www.npmjs.com/package/sendemail
+
+https://stackoverflow.com/questions/39092822/how-to-do-confirm-email-address-with-express-node
+
+https://codemoto.io/coding/nodejs/email-verification-node-express-mongodb
