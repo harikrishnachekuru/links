@@ -7,3 +7,36 @@ https://www.npmjs.com/package/sendemail
 https://stackoverflow.com/questions/39092822/how-to-do-confirm-email-address-with-express-node
 
 https://codemoto.io/coding/nodejs/email-verification-node-express-mongodb
+
+
+
+
+
+
+
+
+
+
+
+                 ................NEW SESSION..................
+
+
+
+
+
+https://www.npmjs.com/package/react-tag-custom
+
+https://www.npmjs.com/package/react-tag-cloud
+
+https://www.npmjs.com/package/react-tag-input-latest
+
+https://www.npmjs.com/package/react-tagsinput
+
+https://www.npmjs.com/package/react-tag-input
+
+https://www.npmjs.com/package/react-search
+
+https://www.npmjs.com/package/react-sweet-progress
+
+
+
